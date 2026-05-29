@@ -1,0 +1,9 @@
+{
+  "title": "Getting Started with DisForm: Your First Discord Form in 5 Minutes",
+  "description": "New to DisForm? This guide walks you through creating your first form, adding questions, setting up Discord webhook delivery, and collecting responses. All in under five minutes.",
+  "author": "tyowk",
+  "tags": ["guide", "disform", "tutorial"],
+  "date": "2026-05-29",
+  "thumbnail": "thumbnail.png",
+  "priority": true
+}

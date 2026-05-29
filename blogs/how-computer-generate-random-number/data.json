@@ -1,0 +1,8 @@
+{
+  "title": "How Computer Generate Truly Random Number?",
+  "description": "Computers are deterministic by nature, so how do they generate randomness? From pseudo-random algorithms to hardware noise and real world exploits.",
+  "author": "tyowk",
+  "tags": ["randomness", "computer science", "algorithms"],
+  "date": "2026-05-26",
+  "thumbnail": "how-computer-generate-random-number/random_number.png"
+}
